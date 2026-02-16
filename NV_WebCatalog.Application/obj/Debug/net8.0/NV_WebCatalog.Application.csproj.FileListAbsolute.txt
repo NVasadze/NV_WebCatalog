@@ -1,0 +1,15 @@
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\bin\Debug\net8.0\NV_WebCatalog.Application.deps.json
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\bin\Debug\net8.0\NV_WebCatalog.Application.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\bin\Debug\net8.0\NV_WebCatalog.Application.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\bin\Debug\net8.0\NV_WebCatalog.Domain.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\bin\Debug\net8.0\NV_WebCatalog.Domain.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.csproj.AssemblyReference.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.AssemblyInfoInputs.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.AssemblyInfo.cs
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCa.E53018FE.Up2Date
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\refint\NV_WebCatalog.Application.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\NV_WebCatalog.Application.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Application\obj\Debug\net8.0\ref\NV_WebCatalog.Application.dll

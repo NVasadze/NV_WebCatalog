@@ -1,0 +1,17 @@
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Infrastructure.deps.json
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Infrastructure.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Infrastructure.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Application.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Domain.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Application.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\bin\Debug\net8.0\NV_WebCatalog.Domain.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.AssemblyInfo.cs
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCa.12AC7306.Up2Date
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\refint\NV_WebCatalog.Infrastructure.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\NV_WebCatalog.Infrastructure.pdb
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog.Infrastructure\obj\Debug\net8.0\ref\NV_WebCatalog.Infrastructure.dll

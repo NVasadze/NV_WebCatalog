@@ -1,0 +1,91 @@
+/* _content/NV_WebCatalog/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Base styling adjustments for NV_WebCatalog */
+body[b-dgzxezl0pt] {
+    padding-top: 70px; /* space for fixed navbar if needed in future */
+    padding-bottom: 60px; /* space for footer */
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar branding */
+a.navbar-brand[b-dgzxezl0pt] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-word;
+    font-weight: 600;
+}
+
+/* Links */
+a[b-dgzxezl0pt] {
+    color: #0077cc;
+}
+a:hover[b-dgzxezl0pt] {
+    color: #005fa3;
+    text-decoration: none;
+}
+
+/* Buttons */
+.btn-primary[b-dgzxezl0pt] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+.btn-primary:hover[b-dgzxezl0pt] {
+    background-color: #155aa0;
+    border-color: #134b86;
+}
+
+.btn-success[b-dgzxezl0pt] {
+    background-color: #198754;
+    border-color: #157347;
+}
+
+.btn-success:hover[b-dgzxezl0pt] {
+    background-color: #146c43;
+    border-color: #0f5132;
+}
+
+/* Navigation pills */
+.nav-pills .nav-link.active[b-dgzxezl0pt],
+.nav-pills .show > .nav-link[b-dgzxezl0pt] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Borders and shadows */
+.border-top[b-dgzxezl0pt] {
+    border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-dgzxezl0pt] {
+    border-bottom: 1px solid #e5e5e5;
+}
+.box-shadow[b-dgzxezl0pt] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Forms */
+.form-label[b-dgzxezl0pt] {
+    font-weight: 500;
+}
+input.form-control[b-dgzxezl0pt], select.form-select[b-dgzxezl0pt] {
+    border-radius: 0.25rem;
+}
+
+/* Alerts */
+.alert[b-dgzxezl0pt] {
+    border-radius: 0.25rem;
+}
+
+/* Footer */
+.footer[b-dgzxezl0pt] {
+    padding: 1rem 0;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Misc */
+button.accept-policy[b-dgzxezl0pt] {
+    font-size: 1rem;
+    line-height: inherit;
+}

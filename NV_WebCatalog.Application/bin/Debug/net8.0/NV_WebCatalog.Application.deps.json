@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NV_WebCatalog.Application/1.0.0": {
+        "dependencies": {
+          "NV_WebCatalog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NV_WebCatalog.Application.dll": {}
+        }
+      },
+      "NV_WebCatalog.Domain/1.0.0": {
+        "runtime": {
+          "NV_WebCatalog.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NV_WebCatalog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NV_WebCatalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

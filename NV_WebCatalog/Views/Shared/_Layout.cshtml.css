@@ -1,0 +1,90 @@
+﻿/* Base styling adjustments for NV_WebCatalog */
+body {
+    padding-top: 70px; /* space for fixed navbar if needed in future */
+    padding-bottom: 60px; /* space for footer */
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar branding */
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-word;
+    font-weight: 600;
+}
+
+/* Links */
+a {
+    color: #0077cc;
+}
+a:hover {
+    color: #005fa3;
+    text-decoration: none;
+}
+
+/* Buttons */
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+.btn-primary:hover {
+    background-color: #155aa0;
+    border-color: #134b86;
+}
+
+.btn-success {
+    background-color: #198754;
+    border-color: #157347;
+}
+
+.btn-success:hover {
+    background-color: #146c43;
+    border-color: #0f5132;
+}
+
+/* Navigation pills */
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Borders and shadows */
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Forms */
+.form-label {
+    font-weight: 500;
+}
+input.form-control, select.form-select {
+    border-radius: 0.25rem;
+}
+
+/* Alerts */
+.alert {
+    border-radius: 0.25rem;
+}
+
+/* Footer */
+.footer {
+    padding: 1rem 0;
+    text-align: center;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Misc */
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}

@@ -1,0 +1,44 @@
+﻿@model NV_WebCatalog.Domain.Entities.Product
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<h2>Product Details</h2>
+
+<div>
+    <h4>@Model.ProductName</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Product ID</dt>
+        <dd class="col-sm-9">@Model.ProductId</dd>
+
+        <dt class="col-sm-3">Quantity Per Unit</dt>
+        <dd class="col-sm-9">@Model.QuantityPerUnit</dd>
+
+        <dt class="col-sm-3">Supplier ID</dt>
+        <dd class="col-sm-9">@Model.SupplierID</dd>
+
+        <dt class="col-sm-3">Category ID</dt>
+        <dd class="col-sm-9">@Model.CategoryID</dd>
+
+        <dt class="col-sm-3">Unit Price</dt>
+        <dd class="col-sm-9">@Model.UnitPrice</dd>
+
+        <dt class="col-sm-3">Units In Stock</dt>
+        <dd class="col-sm-9">@Model.UnitsInStock</dd>
+
+        <dt class="col-sm-3">Units On Order</dt>
+        <dd class="col-sm-9">@Model.UnitsOnOrder</dd>
+
+        <dt class="col-sm-3">Reorder Level</dt>
+        <dd class="col-sm-9">@Model.ReorderLevel</dd>
+
+        <dt class="col-sm-3">Discontinued</dt>
+        <dd class="col-sm-9">@Model.Discontinued</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
