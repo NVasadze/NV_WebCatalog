@@ -9,19 +9,22 @@ namespace NV_WebCatalog
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews()
+
+            // Add Services to Container
+            builder.Services
+                .AddControllersWithViews()
                 .AddRazorRuntimeCompilation();
 
-            // Register Repository
+            // Repository Layer
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
-            // Register Service
+            // Service Layer
             builder.Services.AddScoped<IProductService, ProductService>();
 
+            // Build App
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Configure HTTP Pipeline
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");

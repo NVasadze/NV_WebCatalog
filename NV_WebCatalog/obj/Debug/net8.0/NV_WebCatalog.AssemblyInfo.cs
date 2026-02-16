@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NV_WebCatalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a27faf5e2c3ec05e9cb1e83844bc4970899040b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NV_WebCatalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NV_WebCatalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

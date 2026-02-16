@@ -575,3 +575,4 @@ C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog\bin\Debug\net8.0\
 C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gcomp.ge\OneDrive\Desktop\NV_WebCatalog\NV_WebCatalog\obj\Debug\net8.0\NV_WebCatalog.sourcelink.json
